@@ -1,0 +1,10 @@
+/home/olafurj/MeshExplorer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/olafurj/MeshExplorer/cmake-build-debug/CMakeFiles/MeshExplorer.dir
+/home/olafurj/MeshExplorer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/olafurj/MeshExplorer/cmake-build-debug/CMakeFiles/MeshExplorer_autogen.dir
+/home/olafurj/MeshExplorer/cmake-build-debug/libs/CMakeFiles/rebuild_cache.dir
+/home/olafurj/MeshExplorer/cmake-build-debug/libs/CMakeFiles/edit_cache.dir
+/home/olafurj/MeshExplorer/cmake-build-debug/libs/gl2c/CMakeFiles/rebuild_cache.dir
+/home/olafurj/MeshExplorer/cmake-build-debug/libs/gl2c/CMakeFiles/gl2c.dir
+/home/olafurj/MeshExplorer/cmake-build-debug/libs/gl2c/CMakeFiles/edit_cache.dir
+/home/olafurj/MeshExplorer/cmake-build-debug/libs/gl2c/CMakeFiles/gl2c_autogen.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgl2c.a  CMakeFiles/gl2c.dir/gl2c_autogen/mocs_compilation.cpp.o CMakeFiles/gl2c.dir/abstractwindow.cpp.o CMakeFiles/gl2c.dir/abstractscene.cpp.o CMakeFiles/gl2c.dir/application.cpp.o CMakeFiles/gl2c.dir/window.cpp.o
+/usr/bin/ranlib libgl2c.a

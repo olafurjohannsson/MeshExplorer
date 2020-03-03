@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/olafurj/MeshExplorer/cmake-build-debug/libs/gl2c/gl2c_autogen/mocs_compilation.cpp
+
+/home/olafurj/MeshExplorer/libs/gl2c/abstractscene.cpp
+abstractscene.h
+/home/olafurj/MeshExplorer/libs/gl2c/abstractscene.h
+
+/home/olafurj/MeshExplorer/libs/gl2c/abstractscene.h
+
+/home/olafurj/MeshExplorer/libs/gl2c/abstractwindow.cpp
+abstractwindow.h
+/home/olafurj/MeshExplorer/libs/gl2c/abstractwindow.h
+
+/home/olafurj/MeshExplorer/libs/gl2c/abstractwindow.h
+memory
+-
+string
+-
+iostream
+-
+
+/home/olafurj/MeshExplorer/libs/gl2c/application.cpp
+application.h
+/home/olafurj/MeshExplorer/libs/gl2c/application.h
+
+/home/olafurj/MeshExplorer/libs/gl2c/application.h
+
+/home/olafurj/MeshExplorer/libs/gl2c/window.cpp
+window.h
+/home/olafurj/MeshExplorer/libs/gl2c/window.h
+
+/home/olafurj/MeshExplorer/libs/gl2c/window.h
+
